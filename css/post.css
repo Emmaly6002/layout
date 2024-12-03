@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all-post{
+    width: 48%;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+.tittle2{
+    margin-bottom: 30px;
+}
+
+.tittle2 h2{
+    padding-bottom: 15px;
+}
+
+.sip p{
+    font-size: large;
+    padding-bottom: 30px;
+}
+
+.sip img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.read a{
+    padding: 12px 20px;
+    color: #000;
+    background-color: red;
+    text-decoration: none;
+    
+}

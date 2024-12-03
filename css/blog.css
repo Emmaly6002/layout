@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Post{
+    width: 85%;
+    margin: auto;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.image img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.tittle{
+    margin-bottom: 30px;
+}
+
+.tittle h2{
+    padding-bottom: 15px;
+}
+
+.snippet p{
+    font-size: large;
+    padding-bottom: 30px;
+}
+
+.category{
+    margin-bottom: 20px;
+}
+
